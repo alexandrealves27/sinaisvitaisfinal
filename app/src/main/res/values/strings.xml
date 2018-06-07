@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sinais Vitais</string>
+    <string name="pressaoArterial">Pressão Arterial:</string>
+    <string name="batimentosCardiacos">Batimentos Cardiacos:</string>
+    <string name="temperaturaCorpo">Temperatura do corpo:</string>
+    <string name="pacienteNome">Nome do Paciente:</string>
+    <string name="numeroLeito">Numero do Leito:</string>
+    <string name="botaoEnviar">Enviar</string>
+</resources>

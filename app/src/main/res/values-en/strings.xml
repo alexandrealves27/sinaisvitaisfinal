@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vital signs</string>
+    <string name="pressaoArterial">Blood pressure:</string>
+    <string name="batimentosCardiacos">Heart beats:</string>
+    <string name="temperaturaCorpo">Body temperature:</string>
+    <string name="pacienteNome">Patient's name:</string>
+    <string name="numeroLeito">Bed Number:</string>
+    <string name="botaoEnviar">Submit</string>
+</resources>
