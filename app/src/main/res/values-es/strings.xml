@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Signos vitales</string>
+    <string name="pressaoArterial">Presión arterial:</string>
+    <string name="batimentosCardiacos">Latidos cardiacos:</string>
+    <string name="temperaturaCorpo">Temperatura del cuerpo:</string>
+    <string name="pacienteNome">Nombre del paciente:</string>
+    <string name="numeroLeito">Número del lecho:</string>
+    <string name="botaoEnviar">Enviar</string>
+	<string name="voltar">Otro Paciente</string>
+	<string name="titulo">Signos vitales del Paciente</string>
+
+
+</resources>

@@ -6,4 +6,6 @@
     <string name="pacienteNome">Nome do Paciente:</string>
     <string name="numeroLeito">Numero do Leito:</string>
     <string name="botaoEnviar">Enviar</string>
+    <string name="voltar">Outro paciente</string>
+    <string name="titulo">Sinais Vitais do Paciente</string>
 </resources>
